@@ -17,7 +17,9 @@
 
 ## Deployed web app -
 You can access the web app with the link - https://weather-aus.herokuapp.com/
+
 Screenshot - 
+
 ![Web-App](https://github.com/sprsd/weatherAUS/blob/main/img/screenshot.PNG)
 
 ## About Code - 
@@ -35,7 +37,7 @@ Screenshot -
   6. CatBoost Classifier
 * Feature scaling was done for logistic regression & SVM was done
 
-# Conclusion - 
+## Conclusion - 
 The model with CatBoost Classifier was found to work better as compared to other models & hence used for deploying.
   
 
