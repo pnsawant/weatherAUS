@@ -35,7 +35,7 @@ Screenshot -
   4. Random forest classifier
   5. XGBoost Classifier
   6. CatBoost Classifier
-* Feature scaling was done for logistic regression & SVM was done
+* Feature scaling for logistic regression & SVM was done
 
 ## Conclusion - 
 The model with CatBoost Classifier was found to work better as compared to other models & hence used for deploying.
