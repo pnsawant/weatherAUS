@@ -16,7 +16,7 @@
 * To check the deployed app locally firstly run ```cd ./web-app/``` & then ```python ./app.py```
 
 ## Deployed web app -
-You can access the web app with the link - https://weather-aus.herokuapp.com/
+You can access the web app with the link - coming soon...
 
 Screenshot - 
 
