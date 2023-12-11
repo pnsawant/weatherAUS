@@ -1,5 +1,9 @@
 # Rainfall Prdiction Program
 
+This repository contains source code of ML analysis of rainfall data in Australia along with deployable model with a web-app.
+
+The web-app is live on [https://weather-aus.onrender.com/](https://weather-aus.onrender.com/).
+
 ## Stuff - 
 1. weatherAUS.csv (data file)
 2. weatherAUS.ipynb (ML code)
