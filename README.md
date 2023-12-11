@@ -1,16 +1,21 @@
-# Rainfall Prdiction Program
+# Rainfall Prediction Program
 
-This repository contains source code of ML analysis of rainfall data in Australia along with deployable model with a web-app.
+This repository contains source code of ML analysis of rainfall data in Australia along with a deployable model with a web-app.
 
+## Deployed web app -
 The web-app is live on [https://weather-aus.onrender.com/](https://weather-aus.onrender.com/).
 
-## Stuff - 
+Screenshot - 
+
+![Web-App](https://github.com/sprsd/weatherAUS/blob/main/img/screenshot.PNG)
+
+## Repo Contents - 
 1. weatherAUS.csv (data file)
 2. weatherAUS.ipynb (ML code)
 3. /pickles (pickled model & preprocessors)
 4. /web-app (code for deployed web app)
 5. requirements.txt (list of packages)
-6. /img (screenshot of web app)
+6. /img (screenshot of the web-app)
 
 ## How to?
 * Download zip of repo
@@ -18,13 +23,6 @@ The web-app is live on [https://weather-aus.onrender.com/](https://weather-aus.o
 * Install packages with ```pip install -r requirements.txt```
 * Run ```jupyter notebook``` in command line to see the code of weatherAUS.ipynb
 * To check the deployed app locally firstly run ```cd ./web-app/``` & then ```python ./app.py```
-
-## Deployed web app -
-You can access the web app with the link - coming soon...
-
-Screenshot - 
-
-![Web-App](https://github.com/sprsd/weatherAUS/blob/main/img/screenshot.PNG)
 
 ## About Code - 
 ### Preprocessing - 
